@@ -10,7 +10,7 @@
 
 * I can work with React, Redux, Redux Toolkit, Bootstrap, Tailwind CSS and similar technologies to a certain extent. 👨🏻‍💻 
 
-* I translate blog posts into Turkish in order to contribute to the Turkish frontend development resources. 📚 📝
+* I translate blog posts into Turkish in order to contribute to the Turkish frontend development resources and share them on [Medium](https://medium.com/@yilmazcite). 📝
   
 * I'm also interested in open source projects to which I'm planning to regularly contribute in the long run.
   * I have had the opportunity to make minor contributions to [refine](https://github.com/pankod/refine) and to [Kent C. Dodds' personal website](https://github.com/kentcdodds/kentcdodds.com) so far. 
