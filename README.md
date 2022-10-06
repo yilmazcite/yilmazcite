@@ -8,7 +8,7 @@
 
 * A former freelance translator and a future frontend developer. 🚀
 
-* I can work with React, Redux, Redux Toolkit, Bootstrap, Tailwind CSS and similar technologies to a certain extent. 👨🏻‍💻 
+* I enjoy working with React, Redux, Redux Toolkit, Bootstrap, Tailwind CSS and similar technologies to a certain extent. 👨🏻‍💻 
 
 * I translate blog posts into Turkish in order to contribute to the Turkish frontend development resources and share them on [Medium](https://medium.com/@yilmazcite). 📝
   
