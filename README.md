@@ -6,7 +6,7 @@
 #
 <h3 align="left"><ins>About me</ins>:</h3>
 
-* Former freelance translator and brand new frontend developer. 🚀
+* Former freelance translator & English teacher and brand new frontend developer. 🚀
 
 * I'm currently learning <b>TypeScript</b> and I enjoy working with <b>React, Next.js, Redux, Redux Toolkit, Tailwind CSS, and Bootstrap.</b> 👨🏻‍💻
 
